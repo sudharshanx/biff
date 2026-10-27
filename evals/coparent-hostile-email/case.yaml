@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: coparent-hostile-email
+expected_outcome: |
+  A short BIFF reply (2-5 sentences) sent Reply All, with no apology for the character attack, no defense of character, a factual note and a firm neutral close; offered as a draft for the user to send.

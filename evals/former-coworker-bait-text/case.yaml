@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: former-coworker-bait-text
+expected_outcome: |
+  Recommends not replying, since it is a two-person thread with no real issue and only an opinion about character; explains why briefly.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: neighbor-public-facebook-attack
+expected_outcome: |
+  Recommends replying quickly in the same group with a brief factual, friendly, firm post; no attack on the neighbor, no widening of audience; draft offered for the user to post.
